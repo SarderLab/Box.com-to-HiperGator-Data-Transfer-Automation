@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "box-node-sdk": "^3.4.2",
+    "retry": "^0.13.1"
+  }
+}
