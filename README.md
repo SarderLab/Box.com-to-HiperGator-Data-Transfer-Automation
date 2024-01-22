@@ -83,7 +83,7 @@ _sarderp14@gmail.com_) needs to authorize the application within the Box Admin C
 - Clone the repository:
 
 ```
-git clone https://github.com/nikhilyerra/Box.com-to-HiperGator-Data-Transfer-Automation-.git
+git clone https://github.com/SarderLab/Box.com-to-HiperGator-Data-Transfer-Automation.git
 ```
 - Navigate to box_node folder in the repo.
 ```
